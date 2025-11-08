@@ -18,8 +18,8 @@ const PROJECTS = [
   ss: '/jarvis.jpeg',
   tech: ['html' , 'CSS' , 'JavaScript'],
   live: '#',
-  code: '#',
-  
+  code: 'https://github.com/Sarfaraz211321/Virtual-Assistant'
+
   },
 
   {
@@ -27,8 +27,8 @@ const PROJECTS = [
   desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
   ss: '/portfolio.jpeg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
-  live: '#',
-  code: '#',
+  live: 'https://portfolio-sandy-eight-66.vercel.app/',
+  code: 'https://github.com/Sarfaraz211321/portfolio'
   },
 
   {
@@ -37,7 +37,7 @@ const PROJECTS = [
     ss: '/publicimg.jpeg',
     tech: ['React js', 'Bootstrap', 'Express js', 'Mongo DB'],
     live: '#',
-    code: '#',
+    code: '#'
   },
   // {
   //   title: '📊 ProfileX – Data Profiler',
