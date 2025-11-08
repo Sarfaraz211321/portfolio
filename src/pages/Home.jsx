@@ -20,7 +20,7 @@ export default function Home() {
   const quickLinks = [
     { img: githubLogo, title: 'GitHub', link: 'https://github.com/Sarfaraz211321' },
     { img: linkedinLogo, title: 'LinkedIn', link: 'https://www.linkedin.com/in/mohd-sarfaraz-khan-0724962a6' },
-    { img: gmailLogo, title: 'Email', link: 'mohdsarfarazkhan237@gmail.com' },
+    { img: gmailLogo, title: 'Email', link: 'mailto:mohdsarfarazkhan237@gmail.com' },
     { img: whatsappLogo, title: 'WhatsApp', link: 'https://wa.me/+917080012327' },
     // { img: instagramLogo, title: 'Instagram', link: 'https://www.instagram.com/kunj_2834/' },
     // { img: facebookLogo, title: 'Facebook', link: 'https://www.facebook.com/kunj.desai.222608' },
