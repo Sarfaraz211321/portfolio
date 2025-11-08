@@ -38,7 +38,7 @@ const PROJECTS = [
     ss: '/publicimg.jpeg',
     tech: ['React js', 'Bootstrap', 'Express js', 'Mongo DB'],
     live: '#',
-    code: '#'
+    code: 'https://github.com/Sarfaraz211321/Grievance-Frontend'
   },
   // {
   //   title: '📊 ProfileX – Data Profiler',
