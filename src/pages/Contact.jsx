@@ -14,7 +14,7 @@ import facebookLogo from "../../public/facebook.png";
 
 export default function Contact() {
   const [form, setForm] = useState({
-    name: "sarfaraz",
+    name: "",
     contact: "",
     subject: "",
     message: "",
