@@ -27,8 +27,8 @@ const PROJECTS = [
   desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
   ss: '/portfolio.jpeg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
-  live: 'https://portfolio-sandy-eight-66.vercel.app/',
-  code: 'https://github.com/Sarfaraz211321/portfolio',
+  live: '#',
+  code: '#',
   },
 
   {
