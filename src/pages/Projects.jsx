@@ -12,15 +12,6 @@ const PROJECTS = [
     code: 'https://github.com/Sarfaraz211321/vercel-frontend'
  
   },
-  {
-  title: 'Virtual Assistant',
-  desc: 'The Virtual Assistant Project is an AI-powered system designed to interact with users through voice  commands.It helps perform tasks like answering questions, efficiently.',
-  ss: '/jarvis.jpeg',
-  tech: ['html' , 'CSS' , 'JavaScript'],
-  live: '#',
-  code: 'https://github.com/Sarfaraz211321/Virtual-Assistant'
-
-  },
 
   {
   title: ' Portfolio Website',
@@ -29,6 +20,16 @@ const PROJECTS = [
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
   live: 'https://portfolio-sandy-eight-66.vercel.app/',
   code: 'https://github.com/Sarfaraz211321/portfolio'
+  },
+
+   {
+  title: 'Virtual Assistant',
+  desc: 'The Virtual Assistant Project is an AI-powered system designed to interact with users through voice  commands.It helps perform tasks like answering questions, efficiently.',
+  ss: '/jarvis.jpeg',
+  tech: ['html' , 'CSS' , 'JavaScript'],
+  live: '#',
+  code: 'https://github.com/Sarfaraz211321/Virtual-Assistant'
+
   },
 
   {
