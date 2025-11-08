@@ -18,7 +18,7 @@ const PROJECTS = [
   ss: '/jarvis.jpeg',
   tech: ['html' , 'CSS' , 'JavaScript'],
   live: '#',
-  code: 'https://github.com/Sarfaraz211321/Virtual-Assistant',
+  code: '#',
   
   },
 
@@ -27,9 +27,10 @@ const PROJECTS = [
   desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
   ss: '/portfolio.jpeg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
-  live: '#',
-  code: '#',
+  live: 'https://portfolio-sandy-eight-66.vercel.app/',
+  code: 'https://github.com/Sarfaraz211321/portfolio',
   },
+
   {
     title: 'Public Grievance Web Portal',
     desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
