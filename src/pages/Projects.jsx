@@ -3,6 +3,16 @@ import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
+
+   {  
+    title: 'Doctor-Finder',
+    desc: 'A web application that helps users find nearby doctors based on their location and medical needs.',
+    ss: '/hero-doctor.png',
+    tech: ['React Js', 'Bootstrap', 'Express Js', 'Mongo DB'],
+    live: 'https://doctor-finder-brown.vercel.app/',
+    code: 'https://github.com/Sarfaraz211321/Doctor-Finder'
+  },
+  
   {
     title: ' EstateX a Real Estate Web Portal',
     desc: 'EstateX is a modern real estate web portal that helps users explore, buy, and manage properties seamlessly with a sleek, responsive design.',
@@ -13,14 +23,7 @@ const PROJECTS = [
  
   },
 
-  {  
-    title: 'Doctor-Finder',
-    desc: 'A web application that helps users find nearby doctors based on their location and medical needs.',
-    ss: '/hero-doctor.png',
-    tech: ['React Js', 'Bootstrap', 'Express Js', 'Mongo DB'],
-    live: 'https://doctor-finder-brown.vercel.app/',
-    code: 'https://github.com/Sarfaraz211321/Doctor-Finder'
-  },
+ 
   {
   title: ' Portfolio Website',
   desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
