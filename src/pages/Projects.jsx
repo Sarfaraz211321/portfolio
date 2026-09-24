@@ -4,12 +4,12 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
-    title: ' Quirex a Real Estate Web Portal',
-    desc: 'Quirex is a modern real estate web portal that helps users explore, buy, and manage properties seamlessly with a sleek, responsive design.',
+    title: ' EstateX a Real Estate Web Portal',
+    desc: 'EstateX is a modern real estate web portal that helps users explore, buy, and manage properties seamlessly with a sleek, responsive design.',
     ss: '/luxury.jpg',
     tech: ['React Js', 'Bootstrap', 'Express Js', 'Mongo DB'],
-    live: 'https://vercel-frontend-three-mocha.vercel.app/',
-    code: 'https://github.com/Sarfaraz211321/Real-Estate-Project'
+    live: 'https://frontend-rho-taupe-48.vercel.app/',
+    code: 'https://github.com/Sarfaraz211321/EstateX'
  
   },
 
