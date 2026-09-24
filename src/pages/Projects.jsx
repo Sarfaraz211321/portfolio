@@ -32,14 +32,7 @@ const PROJECTS = [
 
 
 
-  {
-    title: 'Public Grievance Web Portal',
-    desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
-    ss: '/publicimg.jpeg',
-    tech: ['React js', 'Bootstrap', 'Express js', 'Mongo DB'],
-    live: '#',
-    code: 'https://github.com/Sarfaraz211321/Grievance-Frontend'
-  },
+
  
 ]
 
